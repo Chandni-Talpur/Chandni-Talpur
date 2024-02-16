@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/chandni talpur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chandni talpur" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/chandni-talpur-ab6566276/" target="blank"><img align="center" src="https://imagedelivery.net/5MYSbk45M80qAwecrlKzdQ/79e02f6d-fce0-4a1c-e09a-1c4f28076200/preview" alt="chandni talpur" height="60" width="60" /></a>  
+<a href="https://www.linkedin.com/in/chandni-talpur-ab6566276/" target="blank"><img align="center" src="https://imagedelivery.net/5MYSbk45M80qAwecrlKzdQ/79e02f6d-fce0-4a1c-e09a-1c4f28076200/preview" alt="chandni talpur" height="80" width="80" /></a>  
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandni-talpur&show_icons=true&locale=en&layout=compact" alt="chandni-talpur" /></p>
